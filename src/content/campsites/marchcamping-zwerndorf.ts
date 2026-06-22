@@ -39,7 +39,7 @@ const marchcampingZwerndorf: CampsiteConfig = {
     {
       title: "Campingleben unter alten Bäumen",
       text: "Gepflegte Wiese im Schatten alter Bäume — Raum für Wohnwagen, Wohnmobil, Zelt und gemütliche Abende.",
-      image: { src: `${IMG}/gallery-638673a1bf.webp`, alt: "Familie beim Federball am Wohnmobil auf dem Campingplatz" },
+      image: { src: `${IMG}/gallery-99b5333a76.webp`, alt: "Wohnmobil auf der gepflegten Wiese unter alten Bäumen am MarchCamping Zwerndorf" },
     },
   ],
 
@@ -62,7 +62,7 @@ const marchcampingZwerndorf: CampsiteConfig = {
   awards: [],
 
   hero: {
-    aerial: { src: `${IMG}/gallery-99b5333a76.webp`, alt: "Wohnmobil auf der gepflegten Wiese unter alten Bäumen am MarchCamping Zwerndorf" },
+    aerial: { src: `${IMG}/gallery-638673a1bf.webp`, alt: "Familie beim Federball und Radfahren am Wohnmobil auf dem MarchCamping Zwerndorf" },
   },
 
   camping: {
